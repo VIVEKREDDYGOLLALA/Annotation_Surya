@@ -1,0 +1,157 @@
+{
+  "bboxes_relation_json": [
+    {
+      "type": "relation",
+      "to_id": "shoonya_1sYSAF7RBZGC2U",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_0s3SSZ2ERG84O4",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_2sB3IF8UWHUFP2",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_1sYSAF7RBZGC2U",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_3s6N5768E4AYKW",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_2sB3IF8UWHUFP2",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_4s74IOWAK4VDWU",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_3s6N5768E4AYKW",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_5sRJJ4FILV36SZ",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_4s74IOWAK4VDWU",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_6sOAJL99QMEX68",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_5sRJJ4FILV36SZ",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_7sEW0V93F20UVA",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_6sOAJL99QMEX68",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_8sX2MTAX14SWSL",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_7sEW0V93F20UVA",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_9sML0E3J2ZM9G6",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_8sX2MTAX14SWSL",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_11sNSI671AJB9X",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_9sML0E3J2ZM9G6",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_12sT61CN9CHCBJ",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_11sNSI671AJB9X",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_13sMUC2Q3ZGCMY",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_12sT61CN9CHCBJ",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_14s28FKN8L1FWI",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_13sMUC2Q3ZGCMY",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_17sNSZ79J18S8Y",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_16sF7Q0QUF2UOA",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "3-gwHT1_Su",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "JFojPOggQE",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "-eqF20hjc1",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "3-gwHT1_Su",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "JTy8ifzYgE",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "-eqF20hjc1",
+      "direction": "right"
+    }
+  ]
+}
