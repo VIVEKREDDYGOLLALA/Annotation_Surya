@@ -4,7 +4,7 @@
 
 This project provides an annotation script designed to simplify the annotators' tasks in Shoonya. The script processes an input CSV file with various details, including metadata about images and bounding boxes, to automate OCR and determine the reading order of text within the images. 
 
-Shoonya does not directly accept string-based column data, so the script manages bounding box details separately and maps bounding boxes with their corresponding metadata into separate CSV files. 
+Surya-ocr does not directly accept string-based column data, so the script manages bounding box details separately and maps bounding boxes with their corresponding metadata into separate CSV files. 
 
 By leveraging GPU batch processing, the script efficiently cuts images into bounding box shapes, performs OCR, and maps the results back to the original data structure.
 
