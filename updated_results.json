@@ -1,0 +1,1438 @@
+{
+    "shoonya_0sN2UB613LAX58": {
+        "text_lines": [
+            {
+                "polygon": [
+                    [
+                        20.0,
+                        2.0
+                    ],
+                    [
+                        518.0,
+                        2.0
+                    ],
+                    [
+                        518.0,
+                        18.0
+                    ],
+                    [
+                        20.0,
+                        18.0
+                    ]
+                ],
+                "confidence": 0.9936110973358154,
+                "text": "Another time when he should have beene laid in the same",
+                "bbox": [
+                    23,
+                    20,
+                    475,
+                    24
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        2.0,
+                        23.0
+                    ],
+                    [
+                        518.0,
+                        22.0
+                    ],
+                    [
+                        518.0,
+                        38.0
+                    ],
+                    [
+                        2.0,
+                        38.0
+                    ]
+                ],
+                "confidence": 0.9968751072883606,
+                "text": "place he fell so sicke, that he requested to have some body to",
+                "bbox": [
+                    6,
+                    25,
+                    475,
+                    28
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        1.0,
+                        43.0
+                    ],
+                    [
+                        518.0,
+                        43.0
+                    ],
+                    [
+                        518.0,
+                        58.0
+                    ],
+                    [
+                        1.0,
+                        57.0
+                    ]
+                ],
+                "confidence": 0.9981155395507812,
+                "text": "watch with him, whereby also they could not bring their vile",
+                "bbox": [
+                    6,
+                    30,
+                    475,
+                    33
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        1.0,
+                        62.0
+                    ],
+                    [
+                        518.0,
+                        62.0
+                    ],
+                    [
+                        518.0,
+                        77.0
+                    ],
+                    [
+                        1.0,
+                        77.0
+                    ]
+                ],
+                "confidence": 0.9995938539505005,
+                "text": "purpose to passe. But hard it is to escape the ill fortunes wher-",
+                "bbox": [
+                    6,
+                    34,
+                    475,
+                    37
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        1.0,
+                        81.0
+                    ],
+                    [
+                        518.0,
+                        81.0
+                    ],
+                    [
+                        518.0,
+                        96.0
+                    ],
+                    [
+                        1.0,
+                        96.0
+                    ]
+                ],
+                "confidence": 0.998318612575531,
+                "text": "unto a man is allotted: for albeit that the next time that he came",
+                "bbox": [
+                    6,
+                    38,
+                    475,
+                    41
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        1.0,
+                        101.0
+                    ],
+                    [
+                        518.0,
+                        101.0
+                    ],
+                    [
+                        518.0,
+                        116.0
+                    ],
+                    [
+                        1.0,
+                        116.0
+                    ]
+                ],
+                "confidence": 0.9986998438835144,
+                "text": "to London, his horse stumbled and broke one of his legges as he",
+                "bbox": [
+                    6,
+                    43,
+                    475,
+                    46
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        1.0,
+                        121.0
+                    ],
+                    [
+                        518.0,
+                        120.0
+                    ],
+                    [
+                        518.0,
+                        135.0
+                    ],
+                    [
+                        1.0,
+                        136.0
+                    ]
+                ],
+                "confidence": 0.9967788457870483,
+                "text": "should ride homeward, yet hired he another to hasten his owne",
+                "bbox": [
+                    6,
+                    47,
+                    475,
+                    50
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        2.0,
+                        140.0
+                    ],
+                    [
+                        518.0,
+                        140.0
+                    ],
+                    [
+                        518.0,
+                        155.0
+                    ],
+                    [
+                        2.0,
+                        155.0
+                    ]
+                ],
+                "confidence": 0.9941506385803223,
+                "text": "death; for there is no remedy but he should goe to Colbrooke",
+                "bbox": [
+                    6,
+                    51,
+                    475,
+                    55
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        2.0,
+                        160.0
+                    ],
+                    [
+                        518.0,
+                        160.0
+                    ],
+                    [
+                        518.0,
+                        175.0
+                    ],
+                    [
+                        2.0,
+                        174.0
+                    ]
+                ],
+                "confidence": 0.9926795959472656,
+                "text": "that night: but by the way he was heavy asleepe, that he could",
+                "bbox": [
+                    6,
+                    56,
+                    475,
+                    59
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        2.0,
+                        178.0
+                    ],
+                    [
+                        518.0,
+                        179.0
+                    ],
+                    [
+                        518.0,
+                        195.0
+                    ],
+                    [
+                        2.0,
+                        194.0
+                    ]
+                ],
+                "confidence": 0.996446430683136,
+                "text": "scant keepe himselfe, in the saddle; and when he came neere",
+                "bbox": [
+                    6,
+                    60,
+                    475,
+                    64
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        2.0,
+                        200.0
+                    ],
+                    [
+                        465.0,
+                        198.0
+                    ],
+                    [
+                        465.0,
+                        214.0
+                    ],
+                    [
+                        2.0,
+                        215.0
+                    ]
+                ],
+                "confidence": 0.9901098608970642,
+                "text": "unto the Towne, his nose burst out suddenly a bleeding.",
+                "bbox": [
+                    6,
+                    65,
+                    427,
+                    68
+                ]
+            }
+        ]
+    },
+    "shoonya_1sVHDYLNGSKAA0": {
+        "text_lines": [
+            {
+                "polygon": [
+                    [
+                        19.0,
+                        1.0
+                    ],
+                    [
+                        513.0,
+                        1.0
+                    ],
+                    [
+                        513.0,
+                        17.0
+                    ],
+                    [
+                        19.0,
+                        17.0
+                    ]
+                ],
+                "confidence": 0.9980739951133728,
+                "text": "With a good will (quoth he) and would to God Tom Dove were",
+                "bbox": [
+                    22,
+                    52,
+                    467,
+                    56
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        2.0,
+                        21.0
+                    ],
+                    [
+                        513.0,
+                        21.0
+                    ],
+                    [
+                        513.0,
+                        36.0
+                    ],
+                    [
+                        3.0,
+                        36.0
+                    ]
+                ],
+                "confidence": 0.9926601052284241,
+                "text": "here, hee would surely make me merry, and we should lacke no",
+                "bbox": [
+                    7,
+                    57,
+                    467,
+                    61
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        1.0,
+                        41.0
+                    ],
+                    [
+                        513.0,
+                        40.0
+                    ],
+                    [
+                        513.0,
+                        54.0
+                    ],
+                    [
+                        1.0,
+                        55.0
+                    ]
+                ],
+                "confidence": 0.999291181564331,
+                "text": "musicke: but I am sorry for the man with all my heart, that he is",
+                "bbox": [
+                    6,
+                    62,
+                    467,
+                    65
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        1.0,
+                        60.0
+                    ],
+                    [
+                        513.0,
+                        59.0
+                    ],
+                    [
+                        513.0,
+                        73.0
+                    ],
+                    [
+                        1.0,
+                        75.0
+                    ]
+                ],
+                "confidence": 0.9982627034187317,
+                "text": "come so farre behind hand: but alasse, so much can every man",
+                "bbox": [
+                    6,
+                    66,
+                    467,
+                    69
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        1.0,
+                        79.0
+                    ],
+                    [
+                        513.0,
+                        78.0
+                    ],
+                    [
+                        513.0,
+                        92.0
+                    ],
+                    [
+                        1.0,
+                        94.0
+                    ]
+                ],
+                "confidence": 0.9951866865158081,
+                "text": "say, but what good doth it him? No no, it is not words can",
+                "bbox": [
+                    6,
+                    71,
+                    467,
+                    74
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        3.0,
+                        99.0
+                    ],
+                    [
+                        513.0,
+                        97.0
+                    ],
+                    [
+                        513.0,
+                        112.0
+                    ],
+                    [
+                        3.0,
+                        114.0
+                    ]
+                ],
+                "confidence": 0.9995797872543335,
+                "text": "helpe a man in this case, the man had need of other reliefe then",
+                "bbox": [
+                    8,
+                    75,
+                    467,
+                    78
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        2.0,
+                        118.0
+                    ],
+                    [
+                        513.0,
+                        117.0
+                    ],
+                    [
+                        513.0,
+                        131.0
+                    ],
+                    [
+                        2.0,
+                        132.0
+                    ]
+                ],
+                "confidence": 0.9967290759086609,
+                "text": "so. Let me see: I have but one child in the world and that is",
+                "bbox": [
+                    7,
+                    80,
+                    467,
+                    83
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        2.0,
+                        137.0
+                    ],
+                    [
+                        513.0,
+                        135.0
+                    ],
+                    [
+                        513.0,
+                        150.0
+                    ],
+                    [
+                        3.0,
+                        152.0
+                    ]
+                ],
+                "confidence": 0.9988023042678833,
+                "text": "my daughter, and halfe that I have is hers, the other halfe my",
+                "bbox": [
+                    7,
+                    84,
+                    467,
+                    87
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        5.0,
+                        156.0
+                    ],
+                    [
+                        53.0,
+                        158.0
+                    ],
+                    [
+                        51.0,
+                        168.0
+                    ],
+                    [
+                        2.0,
+                        166.0
+                    ]
+                ],
+                "confidence": 0.927544355392456,
+                "text": "wiles.",
+                "bbox": [
+                    10,
+                    89,
+                    53,
+                    91
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        64.0,
+                        157.0
+                    ],
+                    [
+                        512.0,
+                        154.0
+                    ],
+                    [
+                        512.0,
+                        169.0
+                    ],
+                    [
+                        65.0,
+                        171.0
+                    ]
+                ],
+                "confidence": 0.9826547503471375,
+                "text": "What then? shall I be good to no body but them? In",
+                "bbox": [
+                    63,
+                    89,
+                    466,
+                    92
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        3.0,
+                        175.0
+                    ],
+                    [
+                        513.0,
+                        173.0
+                    ],
+                    [
+                        513.0,
+                        188.0
+                    ],
+                    [
+                        3.0,
+                        190.0
+                    ]
+                ],
+                "confidence": 0.9989099502563477,
+                "text": "conscience, my wealth is too much for a cupple to possesse, and",
+                "bbox": [
+                    8,
+                    93,
+                    467,
+                    96
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        3.0,
+                        194.0
+                    ],
+                    [
+                        511.0,
+                        192.0
+                    ],
+                    [
+                        511.0,
+                        207.0
+                    ],
+                    [
+                        3.0,
+                        208.0
+                    ]
+                ],
+                "confidence": 0.9891007542610168,
+                "text": "what is our Religion without charity? And to whom is charity",
+                "bbox": [
+                    8,
+                    98,
+                    465,
+                    101
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        2.0,
+                        213.0
+                    ],
+                    [
+                        398.0,
+                        212.0
+                    ],
+                    [
+                        398.0,
+                        227.0
+                    ],
+                    [
+                        3.0,
+                        228.0
+                    ]
+                ],
+                "confidence": 0.9828227758407593,
+                "text": "more to be shewen, then to decayed liousholders?",
+                "bbox": [
+                    7,
+                    102,
+                    363,
+                    105
+                ]
+            }
+        ]
+    },
+    "shoonya_2sOI2IIAED0JVK": {
+        "text_lines": [
+            {
+                "polygon": [
+                    [
+                        17.0,
+                        0.0
+                    ],
+                    [
+                        514.0,
+                        0.0
+                    ],
+                    [
+                        514.0,
+                        16.0
+                    ],
+                    [
+                        17.0,
+                        16.0
+                    ]
+                ],
+                "confidence": 0.9982492327690125,
+                "text": "Well, to his Inne he came, and so heavy was his heart that he",
+                "bbox": [
+                    20,
+                    42,
+                    469,
+                    44
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        18.0
+                    ],
+                    [
+                        515.0,
+                        20.0
+                    ],
+                    [
+                        514.0,
+                        36.0
+                    ],
+                    [
+                        0.0,
+                        34.0
+                    ]
+                ],
+                "confidence": 0.9966452717781067,
+                "text": "could eate no meat: his host and hostesse hearing he was so",
+                "bbox": [
+                    5,
+                    44,
+                    470,
+                    46
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        36.0
+                    ],
+                    [
+                        515.0,
+                        39.0
+                    ],
+                    [
+                        514.0,
+                        57.0
+                    ],
+                    [
+                        0.0,
+                        55.0
+                    ]
+                ],
+                "confidence": 0.9971074461936951,
+                "text": "melancholy, came up to cheare him, saying, Jesus Master Cole,",
+                "bbox": [
+                    5,
+                    46,
+                    470,
+                    48
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        57.0
+                    ],
+                    [
+                        515.0,
+                        58.0
+                    ],
+                    [
+                        514.0,
+                        75.0
+                    ],
+                    [
+                        0.0,
+                        74.0
+                    ]
+                ],
+                "confidence": 0.9941001534461975,
+                "text": "what ayles you to night? never did we see you thus sad before:",
+                "bbox": [
+                    5,
+                    48,
+                    470,
+                    50
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        76.0
+                    ],
+                    [
+                        399.0,
+                        78.0
+                    ],
+                    [
+                        396.0,
+                        96.0
+                    ],
+                    [
+                        0.0,
+                        94.0
+                    ]
+                ],
+                "confidence": 0.9891544580459595,
+                "text": "will it please you to have a quart of burnt sacke?",
+                "bbox": [
+                    5,
+                    50,
+                    365,
+                    52
+                ]
+            }
+        ]
+    },
+    "shoonya_3s6W1CSK9QIKFT": {
+        "text_lines": [
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        1.0
+                    ],
+                    [
+                        521.0,
+                        5.0
+                    ],
+                    [
+                        520.0,
+                        23.0
+                    ],
+                    [
+                        0.0,
+                        19.0
+                    ]
+                ],
+                "confidence": 0.9995982646942139,
+                "text": "the likewise, by reason of a great fray that hapned in the house",
+                "bbox": [
+                    5,
+                    8,
+                    479,
+                    10
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        23.0
+                    ],
+                    [
+                        521.0,
+                        26.0
+                    ],
+                    [
+                        520.0,
+                        43.0
+                    ],
+                    [
+                        0.0,
+                        39.0
+                    ]
+                ],
+                "confidence": 0.9996627569198608,
+                "text": "betwixt a couple that fell out at dice, insomuch as the murderers",
+                "bbox": [
+                    5,
+                    10,
+                    479,
+                    13
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        43.0
+                    ],
+                    [
+                        521.0,
+                        44.0
+                    ],
+                    [
+                        520.0,
+                        61.0
+                    ],
+                    [
+                        0.0,
+                        60.0
+                    ]
+                ],
+                "confidence": 0.9955073595046997,
+                "text": "themselves were inforced to cal him up, being a man in great",
+                "bbox": [
+                    5,
+                    13,
+                    479,
+                    15
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        63.0
+                    ],
+                    [
+                        520.0,
+                        63.0
+                    ],
+                    [
+                        520.0,
+                        80.0
+                    ],
+                    [
+                        0.0,
+                        79.0
+                    ]
+                ],
+                "confidence": 0.9980959892272949,
+                "text": "authority, that he might set the house in quietnes, out of the",
+                "bbox": [
+                    5,
+                    15,
+                    478,
+                    17
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        83.0
+                    ],
+                    [
+                        520.0,
+                        84.0
+                    ],
+                    [
+                        520.0,
+                        100.0
+                    ],
+                    [
+                        0.0,
+                        100.0
+                    ]
+                ],
+                "confidence": 0.9929611086845398,
+                "text": "which by meanes of this quarrell, they doubted to lose many",
+                "bbox": [
+                    5,
+                    18,
+                    478,
+                    20
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        103.0
+                    ],
+                    [
+                        61.0,
+                        103.0
+                    ],
+                    [
+                        61.0,
+                        118.0
+                    ],
+                    [
+                        0.0,
+                        118.0
+                    ]
+                ],
+                "confidence": 0.996608316898346,
+                "text": "things.",
+                "bbox": [
+                    5,
+                    20,
+                    60,
+                    22
+                ]
+            }
+        ]
+    },
+    "shoonya_4sEG5BPB6BC7OE": {
+        "text_lines": [
+            {
+                "polygon": [
+                    [
+                        16.0,
+                        1.0
+                    ],
+                    [
+                        509.0,
+                        0.0
+                    ],
+                    [
+                        510.0,
+                        16.0
+                    ],
+                    [
+                        18.0,
+                        18.0
+                    ]
+                ],
+                "confidence": 0.9972541928291321,
+                "text": "Good my hoast lend me a pen and inke, and some paper, for",
+                "bbox": [
+                    20,
+                    76,
+                    460,
+                    77
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        1.0,
+                        16.0
+                    ],
+                    [
+                        510.0,
+                        20.0
+                    ],
+                    [
+                        508.0,
+                        39.0
+                    ],
+                    [
+                        0.0,
+                        34.0
+                    ]
+                ],
+                "confidence": 0.9962027072906494,
+                "text": "I will write a letter unto the poore man straight : and something",
+                "bbox": [
+                    7,
+                    77,
+                    461,
+                    79
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        38.0
+                    ],
+                    [
+                        509.0,
+                        38.0
+                    ],
+                    [
+                        509.0,
+                        54.0
+                    ],
+                    [
+                        0.0,
+                        54.0
+                    ]
+                ],
+                "confidence": 0.9896400570869446,
+                "text": "I will give him: That almes which a man bestowes with his",
+                "bbox": [
+                    6,
+                    79,
+                    460,
+                    81
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        57.0
+                    ],
+                    [
+                        509.0,
+                        57.0
+                    ],
+                    [
+                        510.0,
+                        73.0
+                    ],
+                    [
+                        0.0,
+                        73.0
+                    ]
+                ],
+                "confidence": 0.9983826279640198,
+                "text": "owne hands, he shal be sure to have delivered, and God knowes",
+                "bbox": [
+                    6,
+                    81,
+                    460,
+                    83
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        76.0
+                    ],
+                    [
+                        176.0,
+                        78.0
+                    ],
+                    [
+                        170.0,
+                        93.0
+                    ],
+                    [
+                        0.0,
+                        90.0
+                    ]
+                ],
+                "confidence": 0.9739729762077332,
+                "text": "how long I shall live.",
+                "bbox": [
+                    6,
+                    83,
+                    163,
+                    85
+                ]
+            }
+        ]
+    },
+    "shoonya_5s79HC62LCDPBX": {
+        "text_lines": [
+            {
+                "polygon": [
+                    [
+                        19.0,
+                        0.0
+                    ],
+                    [
+                        511.0,
+                        5.0
+                    ],
+                    [
+                        507.0,
+                        25.0
+                    ],
+                    [
+                        0.0,
+                        18.0
+                    ]
+                ],
+                "confidence": 0.9720725417137146,
+                "text": "With that, his hostesse dissemblingly answered, saying:",
+                "bbox": [
+                    23,
+                    85,
+                    463,
+                    86
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        22.0
+                    ],
+                    [
+                        511.0,
+                        23.0
+                    ],
+                    [
+                        510.0,
+                        41.0
+                    ],
+                    [
+                        0.0,
+                        41.0
+                    ]
+                ],
+                "confidence": 0.9966573715209961,
+                "text": "Doubt not, Master Cole, you are like enough by the course of",
+                "bbox": [
+                    6,
+                    86,
+                    463,
+                    87
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        2.0,
+                        40.0
+                    ],
+                    [
+                        233.0,
+                        44.0
+                    ],
+                    [
+                        218.0,
+                        58.0
+                    ],
+                    [
+                        0.0,
+                        55.0
+                    ]
+                ],
+                "confidence": 0.9762663245201111,
+                "text": "nature to live many yeares.",
+                "bbox": [
+                    8,
+                    87,
+                    214,
+                    88
+                ]
+            }
+        ]
+    },
+    "shoonya_6sJ7QTPW3R1AYU": {
+        "text_lines": [
+            {
+                "polygon": [
+                    [
+                        130.0,
+                        0.0
+                    ],
+                    [
+                        163.0,
+                        0.0
+                    ],
+                    [
+                        159.0,
+                        3.0
+                    ],
+                    [
+                        126.0,
+                        2.0
+                    ]
+                ],
+                "confidence": 0.19286365807056427,
+                "text": "",
+                "bbox": [
+                    120,
+                    91,
+                    148,
+                    91
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        2.0
+                    ],
+                    [
+                        491.0,
+                        2.0
+                    ],
+                    [
+                        490.0,
+                        19.0
+                    ],
+                    [
+                        0.0,
+                        19.0
+                    ]
+                ],
+                "confidence": 0.9946634769439697,
+                "text": "God knowes (quoth he) I never found my heart so heavy before.",
+                "bbox": [
+                    8,
+                    91,
+                    430,
+                    91
+                ]
+            }
+        ]
+    },
+    "shoonya_7s0LIDQ2DMRVWQ": {
+        "text_lines": [
+            {
+                "polygon": [
+                    [
+                        0.0,
+                        4.0
+                    ],
+                    [
+                        278.0,
+                        5.0
+                    ],
+                    [
+                        277.0,
+                        22.0
+                    ],
+                    [
+                        0.0,
+                        22.0
+                    ]
+                ],
+                "confidence": 0.9895219206809998,
+                "text": "THOMAS OF READING",
+                "bbox": [
+                    26,
+                    4,
+                    161,
+                    5
+                ]
+            }
+        ]
+    },
+    "tHJ9162ZlL": {
+        "text_lines": [
+            {
+                "polygon": [
+                    [
+                        6.0,
+                        7.0
+                    ],
+                    [
+                        10.0,
+                        6.0
+                    ],
+                    [
+                        11.0,
+                        8.0
+                    ],
+                    [
+                        7.0,
+                        9.0
+                    ]
+                ],
+                "confidence": 0.6305760741233826,
+                "text": "P",
+                "bbox": [
+                    90,
+                    5,
+                    90,
+                    5
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        12.0,
+                        7.0
+                    ],
+                    [
+                        21.0,
+                        5.0
+                    ],
+                    [
+                        23.0,
+                        12.0
+                    ],
+                    [
+                        15.0,
+                        14.0
+                    ]
+                ],
+                "confidence": 0.756879448890686,
+                "text": "2",
+                "bbox": [
+                    90,
+                    5,
+                    90,
+                    5
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        15.0,
+                        18.0
+                    ],
+                    [
+                        22.0,
+                        15.0
+                    ],
+                    [
+                        25.0,
+                        18.0
+                    ],
+                    [
+                        18.0,
+                        21.0
+                    ]
+                ],
+                "confidence": 0.8292220830917358,
+                "text": "",
+                "bbox": [
+                    90,
+                    5,
+                    91,
+                    5
+                ]
+            },
+            {
+                "polygon": [
+                    [
+                        23.0,
+                        18.0
+                    ],
+                    [
+                        26.0,
+                        18.0
+                    ],
+                    [
+                        26.0,
+                        20.0
+                    ],
+                    [
+                        23.0,
+                        20.0
+                    ]
+                ],
+                "confidence": 0.5254117250442505,
+                "text": "",
+                "bbox": [
+                    91,
+                    5,
+                    91,
+                    5
+                ]
+            }
+        ]
+    }
+}

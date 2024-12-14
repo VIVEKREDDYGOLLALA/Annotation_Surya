@@ -3,6 +3,7 @@ import json
 
 def main():
     # Function to convert JSON bounding box data to 'x1, y1, x2, y2' format
+    ##### Runs multiple times for no reason
     def convert_to_x1y1x2y2(json_data):
         csv_data = []
         for bbox in json_data:
@@ -13,6 +14,7 @@ def main():
             label = bbox.get("labels", "unknown")[0]
             box_id = bbox.get('id', 'unknown')
             csv_data.append([x1, y1, x2, y2, label, box_id])
+        # print("x1y1 csv data : ", csv_data)
         return csv_data
 
     # Input and output file paths
@@ -35,6 +37,7 @@ def main():
                     try:
                         json_data = json.loads(json_str)
                         # Convert JSON data to 'x1, y1, x2, y2' format
+                        
                         csv_data = convert_to_x1y1x2y2(json_data)
                         
                         # Write to output CSV file

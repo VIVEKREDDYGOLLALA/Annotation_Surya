@@ -24,9 +24,12 @@ def read_csv(file_path):
         reader = csv.reader(file)
         next(reader)  # Skip the header row
         data = [list(map(float, row[:4])) for row in reader]  # Only read the first 4 columns as floats
+    print("Reading data from Bounding boxes file : output_boxes_1_im.csv")
+    # print(data)
     return data
 
 def read_labels_csv(file_path):
+    ##### Maybe need not run multiple times
     labels_with_ids = []
     with open(file_path, 'r', newline='', encoding='utf-8') as file:
         reader = csv.reader(file)
@@ -34,12 +37,14 @@ def read_labels_csv(file_path):
         labels_with_ids.append(header)
         for row in reader:
             labels_with_ids.append(row)
+    # print("Labels with ID's : ", labels_with_ids) # Same for both rows
     return labels_with_ids
 
+label_index = 1 # Start from 1 to skip the csv header row
 def convert_to_tuples(order_predictions, width_im, height_im, labels_with_ids):
     tuples = []
     header_footer_ids = {}
-    label_index = 1  # Start from 1 to skip the header row
+    global label_index  
     
     for order_result in order_predictions:
         boxes = []
@@ -50,7 +55,8 @@ def convert_to_tuples(order_predictions, width_im, height_im, labels_with_ids):
             label_row = labels_with_ids[label_index]
             label, box_id = label_row[4], label_row[5]
             label_index += 1
-            
+            # print(label, box_id)
+            # print('-------------------')
             if label in HEADER_FOOTER_LABELS:
                 if label not in header_footer_ids:
                     header_footer_ids[label] = box_id
@@ -66,7 +72,7 @@ def convert_to_tuples(order_predictions, width_im, height_im, labels_with_ids):
         tuples.append(boxes)
     return tuples
 
-def generate_relations_json(order_predictions_tuples):
+def generate_relations_json(order_predictions_tuples, image_url):
     relations = []
     headers_footers = []
 
@@ -82,10 +88,28 @@ def generate_relations_json(order_predictions_tuples):
             if x1 >= hf_x1 and y1 >= hf_y1 and x2 <= hf_x2 and y2 <= hf_y2:
                 return True
         return False
-
+    print("-----------")
+    print("HIHIHIHII")
     for boxes in order_predictions_tuples:
+
+        boxes = sorted(boxes, key = lambda x: x['order'])
+        para_index = 0
+        for i in boxes:
+            if not is_inside_header_footer(i):
+                break
+            para_index += 1
+        # print(boxes)
+        ### Worry about footer and newspaper shoonya formats
         for i in range(len(boxes) - 1):
-            if not is_inside_header_footer(boxes[i]) and not is_inside_header_footer(boxes[i + 1]):
+            if (boxes[i]['label'] == 'header'):
+                relations.append({
+                    "type": "relation",
+                    "to_id": boxes[para_index]['id'],
+                    "labels": ["continues-to"],
+                    "from_id": boxes[i]['id'],
+                    "direction": "right"
+                })
+            elif not is_inside_header_footer(boxes[i]) and not is_inside_header_footer(boxes[i + 1]):
                 relations.append({
                     "type": "relation",
                     "to_id": boxes[i + 1]['id'],
@@ -93,6 +117,11 @@ def generate_relations_json(order_predictions_tuples):
                     "from_id": boxes[i]['id'],
                     "direction": "right"
                 })
+
+    csv_input = pd.read_csv('input.csv')
+    csv_input.loc[csv_input["image_url"] == image_url, 'bboxes_relation_json'] = f"{relations}"
+    
+    csv_input.to_csv('input.csv', index = False)
     return {"bboxes_relation_json": relations}
 
 def generate_reading_order_json(order_predictions_tuples):
@@ -154,7 +183,7 @@ def main(image_url):
 
     order_predictions_tuples = convert_to_tuples(order_predictions, width_im, height_im, labels_with_ids)
 
-    relations_json = generate_relations_json(order_predictions_tuples)
+    relations_json = generate_relations_json(order_predictions_tuples, image_url)
     with open(RELATIONS_JSON_PATH, 'w', encoding='utf-8') as json_file:
         json.dump(relations_json, json_file, indent=2)
 

@@ -1,0 +1,67 @@
+{
+  "bboxes_relation_json": [
+    {
+      "type": "relation",
+      "to_id": "shoonya_3s6W1CSK9QIKFT",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "OnpSpoiVyW",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_0sN2UB613LAX58",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_3s6W1CSK9QIKFT",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_2sOI2IIAED0JVK",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_0sN2UB613LAX58",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_1sVHDYLNGSKAA0",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_2sOI2IIAED0JVK",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_4sEG5BPB6BC7OE",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_1sVHDYLNGSKAA0",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_5s79HC62LCDPBX",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_4sEG5BPB6BC7OE",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "shoonya_6sJ7QTPW3R1AYU",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "shoonya_5s79HC62LCDPBX",
+      "direction": "right"
+    }
+  ]
+}

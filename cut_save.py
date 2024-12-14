@@ -20,6 +20,9 @@ def crop_and_save_image(image_path, box, save_folder, box_id):
     y1 = box[1] * height_im / 100
     x2 = box[2] * width_im / 100
     y2 = box[3] * height_im / 100
+    print(x1, y1, x2, y2)
+    print("\n\n")
+    
     
     # Convert box coordinates to integers
     box = (int(x1), int(y1), int(x2), int(y2))
@@ -36,9 +39,11 @@ def crop_and_save_image(image_path, box, save_folder, box_id):
     save_path = os.path.join(save_folder, f"{box_id}.png")
     
     # Resize the cropped image
-    new_height = 400
+    new_height = cropped_img.height
     aspect_ratio = cropped_img.width / cropped_img.height
-    new_width = int(new_height * aspect_ratio)
+    # new_width = int(new_height * aspect_ratio)
+    new_width = cropped_img.width
+    print(new_height, new_width)
     resized_img = cropped_img.resize((new_width, new_height), Image.LANCZOS)
     
     resized_img.save(save_path)
